@@ -11,8 +11,9 @@ Welcome to geometry_analysis's documentation!
    :caption: Contents:
 
    random_musings
+   api
 
-A link to `Google <www.google.com>`_.
+A link to `Google <http://www.google.com/>`_.
 
 Available techniques:
 -----------------------------------------------------------
