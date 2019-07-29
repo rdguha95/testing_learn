@@ -10,6 +10,15 @@ Welcome to geometry_analysis's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   random_musings
+
+A link to `Google <www.google.com>`_.
+
+Available techniques:
+-----------------------------------------------------------
+
+* :ref:`distances`
+* :ref:`bonds`
 
 
 Indices and tables
